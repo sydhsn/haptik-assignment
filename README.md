@@ -1,1 +1,0 @@
-# haptik-assignment
