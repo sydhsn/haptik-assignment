@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sydhsn/haptik-assignment/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/sydhsn/haptik-assignment/static/js/main.e78777b1.chunk.js",
+    "main.js.map": "/sydhsn/haptik-assignment/static/js/main.e78777b1.chunk.js.map",
+    "runtime-main.js": "/sydhsn/haptik-assignment/static/js/runtime-main.9db2f16d.js",
+    "runtime-main.js.map": "/sydhsn/haptik-assignment/static/js/runtime-main.9db2f16d.js.map",
+    "static/css/2.3cb2e245.chunk.css": "/sydhsn/haptik-assignment/static/css/2.3cb2e245.chunk.css",
+    "static/js/2.a41a9c25.chunk.js": "/sydhsn/haptik-assignment/static/js/2.a41a9c25.chunk.js",
+    "static/js/2.a41a9c25.chunk.js.map": "/sydhsn/haptik-assignment/static/js/2.a41a9c25.chunk.js.map",
+    "static/js/3.29a4bb36.chunk.js": "/sydhsn/haptik-assignment/static/js/3.29a4bb36.chunk.js",
+    "static/js/3.29a4bb36.chunk.js.map": "/sydhsn/haptik-assignment/static/js/3.29a4bb36.chunk.js.map",
+    "index.html": "/sydhsn/haptik-assignment/index.html",
+    "static/css/2.3cb2e245.chunk.css.map": "/sydhsn/haptik-assignment/static/css/2.3cb2e245.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/sydhsn/haptik-assignment/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a41a9c25.chunk.js.LICENSE.txt": "/sydhsn/haptik-assignment/static/js/2.a41a9c25.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/sydhsn/haptik-assignment/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9db2f16d.js",
+    "static/css/2.3cb2e245.chunk.css",
+    "static/js/2.a41a9c25.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e78777b1.chunk.js"
+  ]
+}
