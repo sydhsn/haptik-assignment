@@ -2,7 +2,7 @@
   "name": "haptik-assignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sydhsn/haptik-assignment/",
+  "homepage": "https://sydhsn.github.io/haptik-assignment",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build", 
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
